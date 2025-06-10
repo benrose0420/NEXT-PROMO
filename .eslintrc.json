@@ -1,0 +1,10 @@
+   {
+     "extends": "next/core-web-vitals",
+     "extends": ["eslint:recommended", "next/core-web-vitals"],
+     "plugins": ["eslint-comments"],
+    "rules": {
+        "eslint-comments/no-unused-disable": "off"
+    }
+   }
+
+
